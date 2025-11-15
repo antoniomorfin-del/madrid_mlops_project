@@ -1,24 +1,23 @@
-# Use small Python image
 FROM python:3.11-slim
 
-# Install minimal system libraries (needed by scikit-learn)
+# System lib needed by scikit-learn/OpenMP
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libgomp1 \
  && rm -rf /var/lib/apt/lists/*
 
-# Set working directory inside container
 WORKDIR /app
 
-# Install Python dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements-api.txt
+# Keep pip modern so it can find wheels
+RUN python -m pip install --upgrade pip setuptools wheel
 
-# Copy FastAPI app and trained model
+# Install runtime deps using wheels only (no source builds)
+COPY requirements-api.txt .
+RUN pip install --only-binary=:all: --no-cache-dir -r requirements-api.txt
+
+# Copy app & model after deps for better caching
 COPY app/ app/
 COPY models/ models/
 
-# Expose port 8000 for the API
 EXPOSE 8000
-
-# Start FastAPI using Uvicorn
 CMD ["uvicorn", "app.app:app", "--host", "0.0.0.0", "--port", "8000"]
+
