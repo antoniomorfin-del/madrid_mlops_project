@@ -1,0 +1,1000 @@
+price,house_type,house_type_2,rooms,m2,elevator,garage,neighborhood,district
+495000,planta 1,exterior,3,118,True,True,Chopera,Arganzuela
+485000,planta 2,exterior,2,82,True,True,Palos de Moguer,Arganzuela
+315000,planta 2,exterior,2,72,False,False,Legazpi,Arganzuela
+585000,planta 4,exterior,2,174,True,True,Palos de Moguer,Arganzuela
+255000,bajo,exterior,3,75,False,False,Acacias,Arganzuela
+299000,planta 1,exterior,1,69,True,False,Chopera,Arganzuela
+265000,planta 3,exterior,2,54,True,False,Delicias,Arganzuela
+290000,planta 3,interior,4,69,True,False,Chopera,Arganzuela
+660220,planta 2,exterior,3,129,True,True,Imperial,Arganzuela
+525000,planta 4,exterior,4,111,True,False,Chopera,Arganzuela
+429900,bajo,interior,3,139,False,False,Acacias,Arganzuela
+385000,planta 6,exterior,4,100,True,False,Chopera,Arganzuela
+299000,planta 2,exterior,3,85,True,False,Delicias,Arganzuela
+430000,planta 3,exterior,2,92,True,False,Palos de Moguer,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+479000,planta 1,exterior,4,121,True,False,Imperial,Arganzuela
+420000,planta 4,exterior,2,105,True,False,Palos de Moguer,Arganzuela
+239000,planta 3,interior,2,54,True,False,Palos de Moguer,Arganzuela
+585000,planta 4,exterior,2,110,True,True,Palos de Moguer,Arganzuela
+410000,planta 5,exterior,3,79,True,False,Acacias,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+190000,planta 3,exterior,2,48,False,False,Imperial,Arganzuela
+299000,planta 5,interior,2,60,True,False,Palos de Moguer,Arganzuela
+360000,planta 5,exterior,1,62,True,True,Imperial,Arganzuela
+335000,planta 5,exterior,1,54,True,True,Imperial,Arganzuela
+359900,planta 8,exterior,1,62,True,True,Legazpi,Arganzuela
+235000,planta 2,interior,1,59,True,False,Palos de Moguer,Arganzuela
+315000,planta 2,exterior,3,72,True,False,Delicias,Arganzuela
+530000,planta 6,exterior,2,133,True,False,Palos de Moguer,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+310000,planta 2,exterior,3,72,True,False,Delicias,Arganzuela
+387900,planta 2,exterior,1,64,True,True,Legazpi,Arganzuela
+729000,planta 3,exterior,5,175,True,False,Imperial,Arganzuela
+243000,planta 3,exterior,3,55,False,False,Legazpi,Arganzuela
+460000,planta 4,exterior,4,125,True,False,Delicias,Arganzuela
+458000,planta 1,exterior,2,71,True,True,Imperial,Arganzuela
+475000,planta 1,exterior,2,95,True,True,Legazpi,Arganzuela
+357000,planta 1,exterior,1,86,True,True,Legazpi,Arganzuela
+550000,planta 2,interior,3,130,True,False,Imperial,Arganzuela
+475000,planta 4,exterior,2,105,True,True,Legazpi,Arganzuela
+293000,planta 2,interior,3,74,True,False,Palos de Moguer,Arganzuela
+282900,planta 2,exterior,2,47,True,False,Acacias,Arganzuela
+235000,planta 3,interior,1,36,True,False,Delicias,Arganzuela
+385000,planta 4,interior,2,98,True,False,Legazpi,Arganzuela
+390000,planta 1,exterior,3,95,True,False,Chopera,Arganzuela
+575000,planta 2,interior,3,143,True,True,Acacias,Arganzuela
+530000,planta 6,exterior,2,133,True,False,Palos de Moguer,Arganzuela
+780000,planta 8,exterior,4,160,True,False,Imperial,Arganzuela
+210000,planta 3,exterior,2,53,False,False,Legazpi,Arganzuela
+569000,bajo,interior,3,115,True,True,Dúplex en Legazpi,Arganzuela
+370000,planta 1,exterior,3,103,True,False,Palos de Moguer,Arganzuela
+375000,planta 1,interior,3,99,True,False,Palos de Moguer,Arganzuela
+399000,planta 1,exterior,3,86,False,False,Delicias,Arganzuela
+1150000,planta 18,exterior,4,209,True,True,Legazpi,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+275000,bajo,exterior,2,94,True,False,Imperial,Arganzuela
+410000,planta 1,exterior,3,117,True,False,Imperial,Arganzuela
+320000,planta 1,exterior,3,82,True,False,Chopera,Arganzuela
+470000,planta 1,exterior,3,121,True,False,Acacias,Arganzuela
+375000,planta 1,interior,3,82,True,False,Chopera,Arganzuela
+385000,planta 2,interior,3,93,True,False,Acacias,Arganzuela
+249000,planta 3,interior,2,54,True,False,Palos de Moguer,Arganzuela
+410000,planta 5,interior,2,69,True,True,Delicias,Arganzuela
+530000,planta 1,exterior,4,104,True,False,Palos de Moguer,Arganzuela
+510000,planta 1,exterior,3,108,True,False,Palos de Moguer,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+395000,planta 6,exterior,1,76,True,False,Chopera,Arganzuela
+315000,planta 6,exterior,3,78,True,False,Chopera,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+370000,bajo,exterior,2,92,True,False,Legazpi,Arganzuela
+190000,planta 3,exterior,2,48,False,False,Imperial,Arganzuela
+320000,planta 1,exterior,3,82,True,False,Chopera,Arganzuela
+139000,bajo,interior,1,32,False,False,Delicias,Arganzuela
+175000,sotano,interior,1,45,True,False,Delicias,Arganzuela
+370000,planta 1,exterior,3,103,True,False,Palos de Moguer,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+239000,planta 2,interior,2,57,False,False,Imperial,Arganzuela
+210000,planta 3,exterior,2,53,False,False,Legazpi,Arganzuela
+350000,planta 5,exterior,1,63,False,False,Delicias,Arganzuela
+155000,planta 1,interior,1,53,True,False,Chopera,Arganzuela
+309000,planta 1,exterior,3,80,True,False,Delicias,Arganzuela
+390000,planta 7,exterior,2,85,True,False,Palos de Moguer,Arganzuela
+190000,planta 1,exterior,3,53,True,False,Chopera,Arganzuela
+340000,planta 5,interior,2,57,True,False,Acacias,Arganzuela
+165000,bajo,interior,1,30,True,False,Palos de Moguer,Arganzuela
+455000,planta 12,exterior,3,105,True,False,Acacias,Arganzuela
+225000,planta 3,interior,2,58,False,False,Palos de Moguer,Arganzuela
+498000,planta 5,exterior,3,143,True,True,Imperial,Arganzuela
+335000,planta 1,exterior,1,61,True,True,Acacias,Arganzuela
+340000,planta 5,exterior,1,60,True,True,Acacias,Arganzuela
+240000,bajo,interior,1,54,True,False,Acacias,Arganzuela
+450000,planta 12,exterior,3,98,True,False,Legazpi,Arganzuela
+348000,planta 2,exterior,1,60,True,True,Acacias,Arganzuela
+355000,planta 6,exterior,3,82,True,False,Acacias,Arganzuela
+525000,planta 4,exterior,4,136,True,False,Palos de Moguer,Arganzuela
+390000,planta 1,exterior,3,107,True,False,Palos de Moguer,Arganzuela
+249000,planta 3,interior,2,54,True,False,Palos de Moguer,Arganzuela
+499000,planta 7,exterior,2,102,True,False,Imperial,Arganzuela
+144800,sotano,interior,2,40,False,False,Delicias,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+280000,planta 2,interior,3,73,True,False,Chopera,Arganzuela
+313000,planta 1,exterior,2,67,True,False,Imperial,Arganzuela
+350000,planta 2,exterior,2,91,True,False,Imperial,Arganzuela
+190000,planta 3,interior,2,44,True,False,Chopera,Arganzuela
+900000,planta 4,exterior,8,254,True,False,Palos de Moguer,Arganzuela
+219000,planta 1,interior,2,53,True,False,Palos de Moguer,Arganzuela
+168800,planta 1,interior,2,37,True,False,Palos de Moguer,Arganzuela
+698000,planta 1,exterior,4,130,True,True,Acacias,Arganzuela
+610000,planta 3,exterior,3,131,True,False,Palos de Moguer,Arganzuela
+299000,planta 4,interior,3,76,True,False,Chopera,Arganzuela
+335000,planta 3,exterior,3,79,False,False,Palos de Moguer,Arganzuela
+115000,planta 3,interior,1,21,True,False,Acacias,Arganzuela
+355000,planta 6,exterior,3,82,True,False,Acacias,Arganzuela
+399000,planta 1,,2,83,True,True,Delicias,Arganzuela
+420000,planta 2,exterior,2,86,True,True,Palos de Moguer,Arganzuela
+325000,planta 3,exterior,2,50,True,False,Palos de Moguer,Arganzuela
+209900,planta 3,exterior,2,53,False,False,Legazpi,Arganzuela
+379000,planta 2,interior,3,108,True,False,Chopera,Arganzuela
+365000,planta 2,exterior,1,69,True,False,Palos de Moguer,Arganzuela
+365000,planta 3,exterior,1,69,True,False,Palos de Moguer,Arganzuela
+397000,planta 1,exterior,3,100,True,False,Palos de Moguer,Arganzuela
+149000,bajo,interior,1,32,False,False,Acacias,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+415000,planta 4,exterior,3,72,True,False,Acacias,Arganzuela
+767000,planta 4,exterior,3,115,True,True,Acacias,Arganzuela
+355000,planta 6,exterior,3,79,True,False,Acacias,Arganzuela
+885000,planta 4,exterior,4,148,True,True,Acacias,Arganzuela
+190000,planta 2,interior,2,50,True,False,Imperial,Arganzuela
+159900,planta 3,interior,1,38,True,False,Palos de Moguer,Arganzuela
+293000,planta 2,exterior,2,77,False,False,Palos de Moguer,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+320000,planta 1,exterior,3,82,True,False,Chopera,Arganzuela
+429999,planta 1,exterior,2,118,True,True,Legazpi,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+190000,planta 3,exterior,1,48,False,False,Imperial,Arganzuela
+190000,planta 3,exterior,2,48,False,False,Imperial,Arganzuela
+190000,planta 3,exterior,2,48,False,False,Imperial,Arganzuela
+410000,planta 3,interior,2,84,True,True,Palos de Moguer,Arganzuela
+520000,planta 2,exterior,4,149,True,False,Delicias,Arganzuela
+135000,bajo,interior,1,32,False,False,Delicias,Arganzuela
+350000,planta 2,exterior,1,93,True,True,Legazpi,Arganzuela
+330000,planta 1,exterior,3,108,False,False,Chopera,Arganzuela
+249000,planta 3,interior,2,44,True,False,Palos de Moguer,Arganzuela
+545000,planta 2,exterior,3,143,True,True,Delicias,Arganzuela
+230000,bajo,exterior,3,80,True,False,Acacias,Arganzuela
+229000,bajo,exterior,3,66,False,False,Imperial,Arganzuela
+169000,planta 1,interior,2,35,True,False,Delicias,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+220000,bajo,exterior,2,64,True,False,Palos de Moguer,Arganzuela
+293000,planta 2,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+159000,planta 2,exterior,1,41,True,False,Delicias,Arganzuela
+439900,planta 7,interior,3,101,True,False,Delicias,Arganzuela
+399000,planta 1,,2,83,True,True,Delicias,Arganzuela
+320000,planta 1,,1,93,True,True,Legazpi,Arganzuela
+160000,planta 1,,2,44,True,False,Delicias,Arganzuela
+320000,planta 1,exterior,3,82,True,False,Chopera,Arganzuela
+229100,planta 1,exterior,1,49,True,False,Delicias,Arganzuela
+103000,planta 2,,1,22,True,False,Acacias,Arganzuela
+259000,planta 5,exterior,2,56,True,False,Delicias,Arganzuela
+210000,bajo,interior,1,50,True,False,Palos de Moguer,Arganzuela
+380000,planta 3,exterior,3,89,True,False,Legazpi,Arganzuela
+519000,planta 5,exterior,4,115,True,False,Chopera,Arganzuela
+379000,planta 4,exterior,3,98,True,False,Chopera,Arganzuela
+525000,planta 4,exterior,4,136,True,False,Palos de Moguer,Arganzuela
+180000,planta 3,interior,1,50,False,False,Dúplex en Imperial,Arganzuela
+395000,bajo,exterior,4,185,False,True,Imperial,Arganzuela
+243999,planta 3,interior,1,60,True,False,Chopera,Arganzuela
+179000,planta 3,interior,1,40,True,False,Delicias,Arganzuela
+249000,planta 3,interior,2,54,True,False,Palos de Moguer,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+320000,planta 1,exterior,3,82,True,False,Chopera,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+475000,planta 2,exterior,5,136,False,False,Delicias,Arganzuela
+440000,planta 12,exterior,3,90,True,False,Legazpi,Arganzuela
+450000,planta 4,exterior,4,128,True,False,Palos de Moguer,Arganzuela
+450000,planta 4,exterior,4,126,True,False,Palos de Moguer,Arganzuela
+380000,planta 4,exterior,4,98,True,False,Chopera,Arganzuela
+515000,planta 1,exterior,4,131,True,False,Chopera,Arganzuela
+175000,bajo,interior,1,45,False,False,Delicias,Arganzuela
+223000,planta 3,interior,2,54,True,False,Acacias,Arganzuela
+545000,planta 8,exterior,4,114,True,True,Palos de Moguer,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+278000,planta 1,,3,73,True,False,Chopera,Arganzuela
+309900,planta 7,exterior,1,57,True,True,Legazpi,Arganzuela
+72000,planta 2,exterior,2,36,False,False,Delicias,Arganzuela
+315000,planta 2,interior,3,72,True,False,Delicias,Arganzuela
+640000,planta 4,exterior,3,123,True,True,Legazpi,Arganzuela
+225000,planta 1,interior,1,40,True,False,Delicias,Arganzuela
+162500,bajo,exterior,3,53,True,False,Chopera,Arganzuela
+397000,planta 7,interior,3,77,True,False,Acacias,Arganzuela
+285000,planta 5,interior,3,74,True,False,Acacias,Arganzuela
+280000,bajo,exterior,1,71,False,False,Acacias,Arganzuela
+399000,planta 1,exterior,2,80,True,True,Legazpi,Arganzuela
+295000,planta 4,exterior,1,79,True,False,Legazpi,Arganzuela
+525000,planta 4,exterior,4,126,True,False,Palos de Moguer,Arganzuela
+315000,planta 1,exterior,3,85,True,False,Delicias,Arganzuela
+599000,planta 6,exterior,3,72,True,False,Ático en Delicias,Arganzuela
+440000,planta 2,exterior,5,139,True,False,Imperial,Arganzuela
+219000,planta 4,,2,58,True,False,Chopera,Arganzuela
+295000,planta 4,interior,2,60,True,False,Palos de Moguer,Arganzuela
+535000,bajo,exterior,2,75,True,True,Delicias,Arganzuela
+330000,planta 4,exterior,1,65,True,True,Imperial,Arganzuela
+235000,planta 1,exterior,1,37,False,False,Acacias,Arganzuela
+800000,planta 1,exterior,4,140,True,False,Acacias,Arganzuela
+130000,planta 4,interior,2,34,False,False,Palos de Moguer,Arganzuela
+443000,planta 8,exterior,3,108,True,False,Acacias,Arganzuela
+364000,planta 3,interior,3,90,True,False,Palos de Moguer,Arganzuela
+700000,planta 4,exterior,3,114,True,False,Acacias,Arganzuela
+430000,planta 5,exterior,4,108,True,False,Palos de Moguer,Arganzuela
+359000,planta 2,exterior,1,94,True,True,Legazpi,Arganzuela
+485000,planta 2,exterior,2,109,True,True,Legazpi,Arganzuela
+375000,planta 6,exterior,3,84,True,False,Chopera,Arganzuela
+445000,planta 1,,2,92,True,True,Legazpi,Arganzuela
+150000,planta 1,,2,45,False,False,Acacias,Arganzuela
+260000,planta 1,exterior,1,46,True,False,Acacias,Arganzuela
+145000,planta -1,,1,32,False,False,Delicias,Arganzuela
+749000,planta 2,exterior,4,160,True,True,Legazpi,Arganzuela
+203000,bajo,interior,2,52,True,False,Delicias,Arganzuela
+468999,planta 4,exterior,2,107,True,True,Legazpi,Arganzuela
+320000,planta 1,exterior,3,70,True,True,Delicias,Arganzuela
+396000,planta 1,exterior,2,78,True,False,Acacias,Arganzuela
+450000,planta 1,exterior,3,120,True,False,Palos de Moguer,Arganzuela
+295000,planta 1,exterior,3,76,True,False,Imperial,Arganzuela
+399000,planta 2,interior,3,90,True,False,Delicias,Arganzuela
+295000,planta 3,exterior,2,71,True,False,Imperial,Arganzuela
+239000,planta 3,exterior,3,55,False,False,Legazpi,Arganzuela
+675000,planta 6,exterior,4,180,True,False,Delicias,Arganzuela
+176500,planta 1,exterior,1,52,False,False,Palos de Moguer,Arganzuela
+310000,bajo,exterior,1,74,True,False,Legazpi,Arganzuela
+670000,planta 1,exterior,4,169,True,True,Acacias,Arganzuela
+465000,planta 3,exterior,4,120,True,False,Chopera,Arganzuela
+275000,bajo,exterior,2,123,True,False,Acacias,Arganzuela
+275000,bajo,exterior,1,47,False,False,Legazpi,Arganzuela
+370000,planta 1,exterior,1,79,True,False,Imperial,Arganzuela
+387000,planta 1,exterior,1,63,True,True,Legazpi,Arganzuela
+138000,bajo,exterior,3,40,False,False,Delicias,Arganzuela
+460000,planta 2,exterior,4,150,True,False,Delicias,Arganzuela
+249000,planta 5,interior,2,60,True,False,Palos de Moguer,Arganzuela
+479000,planta 2,exterior,4,113,True,False,Imperial,Arganzuela
+175000,planta 2,interior,2,45,True,False,Delicias,Arganzuela
+605000,planta 1,exterior,3,124,True,True,Imperial,Arganzuela
+460000,planta 1,exterior,5,120,True,False,Delicias,Arganzuela
+420000,planta 1,exterior,1,92,True,False,Legazpi,Arganzuela
+565000,planta 3,exterior,3,102,True,False,Palos de Moguer,Arganzuela
+175000,planta 3,interior,2,37,True,False,Acacias,Arganzuela
+385000,planta 2,interior,4,120,True,False,Acacias,Arganzuela
+269000,planta 6,interior,2,50,True,False,Palos de Moguer,Arganzuela
+475000,planta 3,exterior,4,126,True,False,Palos de Moguer,Arganzuela
+520000,planta 1,exterior,3,115,True,True,Legazpi,Arganzuela
+240000,bajo,interior,1,60,True,False,Acacias,Arganzuela
+395000,planta 5,exterior,2,72,True,True,Legazpi,Arganzuela
+172000,planta 1,interior,1,42,False,False,Imperial,Arganzuela
+320000,planta 2,exterior,1,56,True,True,Legazpi,Arganzuela
+199990,planta 1,interior,2,45,True,False,Palos de Moguer,Arganzuela
+440000,planta 4,exterior,3,105,True,False,Imperial,Arganzuela
+295000,planta 3,exterior,3,55,True,False,Chopera,Arganzuela
+340000,planta 3,exterior,2,68,True,False,Palos de Moguer,Arganzuela
+170000,bajo,interior,2,32,True,False,Palos de Moguer,Arganzuela
+360000,planta 1,exterior,4,105,True,False,Delicias,Arganzuela
+449000,planta 3,exterior,3,86,True,False,Imperial,Arganzuela
+375000,planta 1,exterior,2,65,False,False,Legazpi,Arganzuela
+299000,planta 2,exterior,1,59,True,True,Legazpi,Arganzuela
+485000,planta 4,exterior,3,113,True,False,Chopera,Arganzuela
+475000,planta 5,exterior,2,60,True,True,Legazpi,Arganzuela
+425000,planta 4,exterior,3,72,True,False,Acacias,Arganzuela
+520000,planta 1,exterior,3,135,True,False,Palos de Moguer,Arganzuela
+415000,planta 7,exterior,3,57,True,False,Palos de Moguer,Arganzuela
+320000,planta 1,exterior,3,71,True,False,Palos de Moguer,Arganzuela
+620000,planta 2,exterior,3,126,True,True,Imperial,Arganzuela
+320000,bajo,exterior,1,52,False,False,Palos de Moguer,Arganzuela
+380000,planta 1,exterior,2,72,True,False,Palos de Moguer,Arganzuela
+320000,planta 5,exterior,1,60,True,False,Acacias,Arganzuela
+124000,planta 4,interior,1,36,False,False,Delicias,Arganzuela
+345000,planta 1,exterior,3,109,True,False,Delicias,Arganzuela
+670000,planta 5,exterior,3,119,True,False,Acacias,Arganzuela
+595000,planta 2,exterior,3,100,True,True,Delicias,Arganzuela
+538000,planta 1,exterior,2,97,True,False,Legazpi,Arganzuela
+299900,planta 2,exterior,3,84,True,False,Delicias,Arganzuela
+485000,planta 2,exterior,2,82,True,True,Palos de Moguer,Arganzuela
+255000,bajo,exterior,1,74,False,False,Imperial,Arganzuela
+272000,bajo,exterior,1,81,False,False,Imperial,Arganzuela
+299000,planta 6,interior,2,56,True,False,Palos de Moguer,Arganzuela
+385000,bajo,exterior,3,87,True,False,Legazpi,Arganzuela
+445000,planta 3,exterior,4,112,True,False,Delicias,Arganzuela
+300000,planta 1,exterior,3,68,True,False,Acacias,Arganzuela
+410000,planta 1,exterior,3,142,True,False,Imperial,Arganzuela
+515000,planta 5,,3,112,True,False,Chopera,Arganzuela
+132000,semi-sotano,interior,1,50,False,False,Imperial,Arganzuela
+450000,planta 6,exterior,3,113,True,True,Delicias,Arganzuela
+499000,planta 3,exterior,3,121,True,False,Acacias,Arganzuela
+350000,planta 1,exterior,3,87,True,False,Palos de Moguer,Arganzuela
+340000,planta 2,exterior,3,80,True,False,Palos de Moguer,Arganzuela
+360000,planta 4,interior,3,72,True,False,Palos de Moguer,Arganzuela
+360000,planta 4,interior,3,72,True,False,Palos de Moguer,Arganzuela
+1610000,planta 3,exterior,4,384,True,False,Palos de Moguer,Arganzuela
+129000,sotano,interior,2,44,True,False,Acacias,Arganzuela
+145000,planta 2,interior,1,43,True,False,Delicias,Arganzuela
+490000,bajo,exterior,4,160,False,True,Imperial,Arganzuela
+175000,planta 2,interior,1,32,True,False,Delicias,Arganzuela
+299000,planta 2,interior,2,60,True,False,Acacias,Arganzuela
+155000,planta 2,interior,2,41,True,False,Imperial,Arganzuela
+349000,planta 2,exterior,2,97,True,False,Acacias,Arganzuela
+430000,planta 3,exterior,2,80,True,True,Legazpi,Arganzuela
+339000,planta 7,interior,2,80,True,False,Imperial,Arganzuela
+189000,planta 2,,1,40,False,False,Acacias,Arganzuela
+155000,planta 3,interior,1,34,False,False,Imperial,Arganzuela
+350000,planta 2,interior,2,62,True,False,Chopera,Arganzuela
+345000,planta 4,interior,4,100,True,False,Palos de Moguer,Arganzuela
+269900,entreplanta,exterior,3,92,False,False,Chopera,Arganzuela
+440000,planta 5,exterior,3,136,True,True,Legazpi,Arganzuela
+140000,planta 5,interior,2,41,False,False,Imperial,Arganzuela
+379000,planta 1,exterior,3,101,True,False,Delicias,Arganzuela
+177000,bajo,exterior,1,36,True,False,Palos de Moguer,Arganzuela
+165000,planta 1,interior,1,33,True,False,Palos de Moguer,Arganzuela
+515500,planta 4,exterior,2,100,True,True,Delicias,Arganzuela
+555000,planta 4,exterior,4,121,True,False,Palos de Moguer,Arganzuela
+165000,bajo,exterior,3,84,True,False,Imperial,Arganzuela
+298000,planta 4,exterior,1,64,True,False,Delicias,Arganzuela
+480000,planta 1,exterior,2,101,True,True,Legazpi,Arganzuela
+398000,planta 1,exterior,2,71,True,True,Legazpi,Arganzuela
+387000,planta 2,exterior,2,71,True,True,Legazpi,Arganzuela
+410000,planta 4,exterior,3,100,True,False,Chopera,Arganzuela
+550000,planta 6,interior,4,120,True,False,Chopera,Arganzuela
+230000,bajo,interior,2,53,True,False,Delicias,Arganzuela
+185000,bajo,interior,1,45,True,False,Palos de Moguer,Arganzuela
+144800,bajo,exterior,3,40,False,False,Delicias,Arganzuela
+180000,bajo,interior,1,45,True,False,Chopera,Arganzuela
+392400,bajo,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+373000,planta 4,exterior,2,93,True,False,Chopera,Arganzuela
+545000,planta 4,exterior,4,156,True,False,Delicias,Arganzuela
+373800,planta 3,exterior,2,89,True,False,Chopera,Arganzuela
+390000,planta 1,exterior,3,90,True,False,Chopera,Arganzuela
+460000,planta 2,interior,2,90,True,False,Chopera,Arganzuela
+449900,planta 2,exterior,3,106,True,False,Palos de Moguer,Arganzuela
+239000,planta 2,interior,3,62,True,False,Palos de Moguer,Arganzuela
+574500,planta 3,exterior,3,118,True,True,Imperial,Arganzuela
+219900,planta 2,interior,2,48,True,False,Palos de Moguer,Arganzuela
+355000,planta 6,exterior,3,82,False,False,Acacias,Arganzuela
+150000,bajo,exterior,1,30,False,False,Palos de Moguer,Arganzuela
+315000,planta 3,exterior,2,45,True,False,Imperial,Arganzuela
+442589,planta 1,exterior,2,82,True,True,Legazpi,Arganzuela
+295240,planta 1,exterior,1,54,True,True,Legazpi,Arganzuela
+753277,planta 5,exterior,3,120,True,True,Legazpi,Arganzuela
+664330,planta 4,exterior,3,124,True,True,Legazpi,Arganzuela
+853203,planta 3,exterior,4,168,True,True,Legazpi,Arganzuela
+619100,planta 2,exterior,3,122,True,True,Legazpi,Arganzuela
+463308,planta 2,exterior,2,88,True,True,Legazpi,Arganzuela
+239000,planta 3,interior,1,51,True,False,Chopera,Arganzuela
+265000,planta 3,exterior,2,60,False,False,Imperial,Arganzuela
+240000,planta 3,exterior,3,54,False,False,Legazpi,Arganzuela
+325000,planta 3,exterior,1,63,True,True,Delicias,Arganzuela
+480000,bajo,exterior,3,143,True,False,Imperial,Arganzuela
+675000,planta 1,exterior,7,170,True,False,Delicias,Arganzuela
+135000,planta 1,interior,2,81,True,False,Acacias,Arganzuela
+443000,planta 5,exterior,4,131,True,False,Palos de Moguer,Arganzuela
+177500,planta 1,interior,2,50,False,False,Imperial,Arganzuela
+250000,bajo,exterior,1,80,True,False,Chopera,Arganzuela
+230000,planta 5,interior,2,42,True,False,Palos de Moguer,Arganzuela
+420000,planta 2,exterior,4,110,True,False,Delicias,Arganzuela
+365000,planta 4,exterior,1,75,True,False,Palos de Moguer,Arganzuela
+359000,planta 5,interior,3,115,True,False,Delicias,Arganzuela
+395000,planta 2,interior,3,80,True,False,Delicias,Arganzuela
+365000,planta 4,exterior,1,71,True,False,Palos de Moguer,Arganzuela
+185000,bajo,interior,1,47,True,False,Palos de Moguer,Arganzuela
+1200000,planta 5,exterior,3,225,True,True,Acacias,Arganzuela
+800000,planta 9,exterior,4,146,True,True,Legazpi,Arganzuela
+527000,planta 4,exterior,4,133,True,False,Acacias,Arganzuela
+220000,sotano,interior,2,125,True,False,Imperial,Arganzuela
+135000,bajo,exterior,1,34,False,False,Imperial,Arganzuela
+145000,planta 3,interior,2,37,False,False,Chopera,Arganzuela
+264000,entreplanta,exterior,3,92,True,False,Chopera,Arganzuela
+395000,bajo,exterior,4,143,False,True,Imperial,Arganzuela
+269900,entreplanta,exterior,3,92,True,False,Chopera,Arganzuela
+223000,planta 3,interior,2,55,True,False,Acacias,Arganzuela
+379900,bajo,exterior,1,42,True,True,Palos de Moguer,Arganzuela
+185000,sotano,exterior,2,67,True,False,Chopera,Arganzuela
+485000,planta 8,exterior,4,110,True,False,Chopera,Arganzuela
+390000,planta 2,interior,3,90,True,False,Palos de Moguer,Arganzuela
+394816,planta 5,exterior,1,61,True,True,Legazpi,Arganzuela
+517833,planta 2,exterior,2,103,True,True,Legazpi,Arganzuela
+812680,planta 1,exterior,4,169,True,True,Legazpi,Arganzuela
+168800,planta 1,interior,2,37,True,False,Palos de Moguer,Arganzuela
+398000,planta 2,exterior,4,109,True,False,Palos de Moguer,Arganzuela
+440000,planta 3,exterior,2,80,True,True,Acacias,Arganzuela
+385000,planta 3,exterior,2,90,True,False,Palos de Moguer,Arganzuela
+330000,planta 5,exterior,3,82,True,False,Acacias,Arganzuela
+370000,planta 1,exterior,1,80,True,False,Imperial,Arganzuela
+330000,planta 4,exterior,2,72,True,False,Acacias,Arganzuela
+840000,planta 1,exterior,4,121,True,True,Acacias,Arganzuela
+395000,entreplanta,exterior,4,184,False,True,Imperial,Arganzuela
+479000,planta 1,exterior,4,121,True,False,Imperial,Arganzuela
+370000,planta 6,interior,3,89,True,True,Acacias,Arganzuela
+215000,planta 5,interior,1,47,True,False,Acacias,Arganzuela
+340400,planta 3,exterior,1,65,True,False,Imperial,Arganzuela
+249000,bajo,exterior,1,59,False,False,Delicias,Arganzuela
+275000,planta 3,exterior,1,55,False,False,Palos de Moguer,Arganzuela
+280000,planta 2,interior,2,57,False,False,Acacias,Arganzuela
+233000,planta 3,interior,1,48,False,False,Imperial,Arganzuela
+235000,planta 2,exterior,2,66,True,False,Chopera,Arganzuela
+355000,bajo,exterior,3,96,True,False,Delicias,Arganzuela
+1200000,planta 5,exterior,3,225,True,True,Acacias,Arganzuela
+349000,planta 3,interior,2,75,True,False,Delicias,Arganzuela
+600000,planta 5,exterior,2,137,True,True,Legazpi,Arganzuela
+605000,planta 1,exterior,3,124,True,False,Imperial,Arganzuela
+650000,bajo,exterior,4,279,True,False,Imperial,Arganzuela
+299000,planta 4,exterior,2,71,True,False,Delicias,Arganzuela
+620000,planta 2,exterior,3,126,True,True,Imperial,Arganzuela
+465000,planta 5,exterior,2,76,True,True,Legazpi,Arganzuela
+362000,planta 6,exterior,1,48,True,True,Imperial,Arganzuela
+760000,planta 2,exterior,3,132,True,True,Imperial,Arganzuela
+455000,planta 4,exterior,2,75,True,True,Legazpi,Arganzuela
+520000,planta 5,exterior,2,86,True,True,Legazpi,Arganzuela
+580000,planta 6,exterior,3,103,True,True,Legazpi,Arganzuela
+625000,planta 6,exterior,3,120,True,True,Legazpi,Arganzuela
+475000,planta 1,exterior,2,96,True,True,Legazpi,Arganzuela
+480000,planta 1,exterior,2,96,True,True,Legazpi,Arganzuela
+150000,planta 1,interior,1,50,False,False,Chopera,Arganzuela
+368000,planta 1,exterior,2,89,True,False,Acacias,Arganzuela
+150000,bajo,exterior,1,35,True,False,Palos de Moguer,Arganzuela
+550000,planta 2,exterior,3,115,True,True,Acacias,Arganzuela
+299000,planta 3,exterior,2,50,True,False,Imperial,Arganzuela
+240000,planta 1,interior,2,50,True,False,Palos de Moguer,Arganzuela
+210000,planta 4,interior,2,45,True,False,Acacias,Arganzuela
+580000,planta 2,exterior,4,104,True,True,Imperial,Arganzuela
+800000,planta 8,exterior,4,160,True,False,Imperial,Arganzuela
+485000,planta 7,exterior,1,66,True,False,Imperial,Arganzuela
+449900,planta 2,exterior,3,110,True,False,Palos de Moguer,Arganzuela
+355000,planta 6,exterior,3,78,True,False,Acacias,Arganzuela
+450000,planta 5,exterior,5,113,True,False,Imperial,Arganzuela
+390000,planta 1,exterior,3,97,True,False,Chopera,Arganzuela
+355000,planta 6,exterior,3,82,True,False,Acacias,Arganzuela
+670900,planta 4,exterior,3,131,True,True,Delicias,Arganzuela
+675600,planta 4,exterior,3,135,True,True,Delicias,Arganzuela
+648200,planta 3,exterior,3,135,True,True,Delicias,Arganzuela
+368900,planta 2,exterior,1,66,True,True,Delicias,Arganzuela
+373700,planta 2,exterior,1,65,True,True,Delicias,Arganzuela
+625800,planta 2,exterior,3,135,True,True,Delicias,Arganzuela
+360800,planta 1,exterior,1,65,True,True,Delicias,Arganzuela
+462500,planta 1,exterior,2,100,True,True,Delicias,Arganzuela
+597000,planta 1,exterior,3,135,True,True,Delicias,Arganzuela
+409000,planta 4,interior,2,70,True,True,Legazpi,Arganzuela
+280000,entreplanta,exterior,3,77,True,False,Chopera,Arganzuela
+355000,planta 6,exterior,2,77,True,False,Palos de Moguer,Arganzuela
+160000,planta 3,interior,1,37,False,False,Delicias,Arganzuela
+210000,planta 2,exterior,2,57,True,False,Palos de Moguer,Arganzuela
+373000,planta 4,exterior,2,93,True,False,Chopera,Arganzuela
+224000,bajo,exterior,3,59,False,False,Imperial,Arganzuela
+330000,bajo,exterior,2,65,True,False,Palos de Moguer,Arganzuela
+530000,planta 8,exterior,4,100,True,False,Legazpi,Arganzuela
+560000,planta 3,exterior,4,116,True,False,Imperial,Arganzuela
+379000,planta 4,exterior,2,89,True,False,Delicias,Arganzuela
+245000,bajo,exterior,1,36,True,False,Delicias,Arganzuela
+229100,planta 1,exterior,1,52,True,False,Delicias,Arganzuela
+355000,planta 6,exterior,3,78,True,False,Acacias,Arganzuela
+298000,bajo,exterior,2,65,True,False,Chopera,Arganzuela
+168800,planta 1,interior,2,37,True,False,Palos de Moguer,Arganzuela
+199000,planta 2,interior,1,62,False,False,Palos de Moguer,Arganzuela
+410000,planta 4,exterior,2,93,True,False,Imperial,Arganzuela
+180000,bajo,interior,1,45,True,False,Chopera,Arganzuela
+325000,bajo,exterior,2,80,True,False,Palos de Moguer,Arganzuela
+395000,planta 5,exterior,3,91,True,False,Palos de Moguer,Arganzuela
+359000,planta 1,exterior,4,113,True,False,Delicias,Arganzuela
+385000,planta 6,exterior,4,100,True,False,Chopera,Arganzuela
+335000,planta 3,exterior,3,73,False,False,Palos de Moguer,Arganzuela
+144800,bajo,interior,2,40,False,False,Delicias,Arganzuela
+373800,planta 3,exterior,2,89,True,False,Chopera,Arganzuela
+223000,planta 3,interior,2,54,True,False,Acacias,Arganzuela
+250000,planta 7,interior,2,56,True,False,Palos de Moguer,Arganzuela
+195000,planta 4,exterior,1,48,False,False,Acacias,Arganzuela
+370000,planta 1,exterior,3,103,True,False,Palos de Moguer,Arganzuela
+189000,bajo,exterior,1,46,True,False,Delicias,Arganzuela
+435000,planta 2,exterior,4,102,True,False,Legazpi,Arganzuela
+319000,planta 7,exterior,1,63,True,True,Delicias,Arganzuela
+373800,planta 3,,2,104,False,False,Chopera,Arganzuela
+229100,planta 1,,2,54,True,False,Delicias,Arganzuela
+355000,planta 6,,3,83,False,False,Acacias,Arganzuela
+278000,planta 1,interior,1,45,False,False,Palos de Moguer,Arganzuela
+169000,bajo,exterior,2,47,True,False,Palos de Moguer,Arganzuela
+450000,planta 3,exterior,4,97,True,False,Acacias,Arganzuela
+330000,planta 5,interior,2,84,True,False,Chopera,Arganzuela
+480000,planta 1,exterior,4,125,True,False,Palos de Moguer,Arganzuela
+499000,planta 3,exterior,2,106,True,False,Palos de Moguer,Arganzuela
+135000,bajo,interior,1,32,False,False,Delicias,Arganzuela
+277000,entreplanta,exterior,3,92,True,False,Chopera,Arganzuela
+224000,bajo,exterior,3,60,False,False,Imperial,Arganzuela
+613000,planta 1,exterior,2,114,True,True,Imperial,Arganzuela
+545000,planta 8,exterior,2,78,True,True,Imperial,Arganzuela
+370000,planta 1,exterior,1,54,True,True,Imperial,Arganzuela
+750000,planta 2,exterior,3,125,True,True,Imperial,Arganzuela
+575000,planta 4,exterior,2,79,True,True,Imperial,Arganzuela
+535000,planta 2,exterior,2,76,True,True,Imperial,Arganzuela
+498500,planta 6,exterior,3,93,True,False,Palos de Moguer,Arganzuela
+749000,planta 2,exterior,4,160,True,True,Legazpi,Arganzuela
+284000,bajo,exterior,1,71,True,False,Imperial,Arganzuela
+175000,bajo,exterior,2,63,True,False,Imperial,Arganzuela
+150000,bajo,exterior,1,42,True,False,Imperial,Arganzuela
+210000,bajo,exterior,1,48,True,True,Chopera,Arganzuela
+312800,bajo,exterior,2,103,True,True,Chopera,Arganzuela
+255000,planta 3,interior,2,67,True,False,Chopera,Arganzuela
+179000,planta 5,interior,2,39,True,False,Acacias,Arganzuela
+218000,planta 2,interior,2,55,True,False,Acacias,Arganzuela
+335000,planta 5,exterior,1,63,True,True,Palos de Moguer,Arganzuela
+299000,planta 2,exterior,1,59,True,True,Legazpi,Arganzuela
+219900,planta 3,exterior,2,45,True,False,Imperial,Arganzuela
+335000,planta 3,exterior,3,72,False,False,Palos de Moguer,Arganzuela
+335000,planta 3,,3,72,False,False,Palos de Moguer,Arganzuela
+460000,planta 3,exterior,2,139,True,True,Delicias,Arganzuela
+165000,planta 3,interior,1,35,True,False,Delicias,Arganzuela
+650000,planta 1,exterior,3,132,True,True,Acacias,Arganzuela
+295000,planta 2,,2,50,True,False,Acacias,Arganzuela
+245000,bajo,exterior,3,68,False,False,Acacias,Arganzuela
+150000,planta 1,interior,1,50,False,False,Chopera,Arganzuela
+305000,planta 5,interior,3,70,True,False,Chopera,Arganzuela
+169000,bajo,interior,1,35,True,False,Imperial,Arganzuela
+169000,bajo,interior,2,52,True,False,Chopera,Arganzuela
+335000,planta 3,exterior,3,73,False,False,Palos de Moguer,Arganzuela
+380000,planta 1,exterior,3,80,True,False,Delicias,Arganzuela
+391000,planta 6,exterior,3,102,True,False,Chopera,Arganzuela
+755000,planta 11,exterior,3,102,True,True,Imperial,Arganzuela
+229100,planta 1,exterior,2,49,True,False,Delicias,Arganzuela
+124300,bajo,exterior,1,40,False,False,Legazpi,Arganzuela
+140000,bajo,exterior,1,31,True,False,Chopera,Arganzuela
+425000,planta 4,exterior,3,84,True,True,Imperial,Arganzuela
+355000,planta 6,exterior,3,83,True,False,Acacias,Arganzuela
+280000,planta 2,interior,3,53,True,False,Chopera,Arganzuela
+120000,bajo,interior,2,43,False,False,Palos de Moguer,Arganzuela
+144800,bajo,exterior,2,40,False,False,Delicias,Arganzuela
+118000,planta 1,interior,1,35,True,False,Delicias,Arganzuela
+189000,planta 5,interior,2,43,False,False,Palos de Moguer,Arganzuela
+348000,planta 2,interior,2,95,False,False,Acacias,Arganzuela
+236000,bajo,interior,3,60,False,False,Imperial,Arganzuela
+450000,planta 9,exterior,2,95,True,True,Legazpi,Arganzuela
+285000,planta 1,exterior,1,70,True,False,Acacias,Arganzuela
+144800,semi-sotano,interior,2,40,False,False,Delicias,Arganzuela
+175000,planta 2,interior,2,43,False,False,Palos de Moguer,Arganzuela
+150000,planta 2,interior,1,32,True,False,Delicias,Arganzuela
+183116,bajo,,2,66,False,False,Palos de Moguer,Arganzuela
+398000,planta 8,exterior,1,62,True,True,Legazpi,Arganzuela
+360000,planta 1,exterior,3,105,True,False,Delicias,Arganzuela
+230000,planta 3,exterior,1,47,True,False,Palos de Moguer,Arganzuela
+144800,bajo,exterior,2,40,False,False,Delicias,Arganzuela
+449000,planta 8,exterior,2,95,True,True,Legazpi,Arganzuela
+236000,bajo,exterior,3,70,False,False,Imperial,Arganzuela
+144800,bajo,exterior,2,40,False,False,Delicias,Arganzuela
+285000,planta 2,interior,1,50,True,False,Palos de Moguer,Arganzuela
+160000,planta 4,interior,2,37,True,False,Palos de Moguer,Arganzuela
+229100,planta 1,exterior,1,49,True,False,Delicias,Arganzuela
+189000,bajo,exterior,2,61,True,False,Acacias,Arganzuela
+355000,planta 4,exterior,3,78,True,False,Acacias,Arganzuela
+176500,bajo,exterior,1,52,False,False,Palos de Moguer,Arganzuela
+320000,planta 2,exterior,1,60,True,True,Delicias,Arganzuela
+283000,planta 1,interior,3,68,True,False,Palos de Moguer,Arganzuela
+295000,planta 2,exterior,2,50,True,False,Acacias,Arganzuela
+375000,planta 1,exterior,1,65,True,False,Delicias,Arganzuela
+475000,planta 2,exterior,3,110,True,True,Palos de Moguer,Arganzuela
+229000,bajo,exterior,3,59,False,False,Imperial,Arganzuela
+539000,planta 2,exterior,3,108,True,True,Legazpi,Arganzuela
+565000,planta 7,exterior,2,100,True,False,Delicias,Arganzuela
+149000,planta -1,interior,1,34,True,False,Acacias,Arganzuela
+300000,planta 1,exterior,1,71,True,False,Delicias,Arganzuela
+264000,entreplanta,exterior,3,95,True,False,Chopera,Arganzuela
+180000,planta 4,interior,1,27,True,False,Palos de Moguer,Arganzuela
+300000,planta 1,exterior,2,79,True,False,Imperial,Arganzuela
+229100,planta 1,exterior,2,52,True,False,Delicias,Arganzuela
+159900,planta 3,interior,1,38,True,False,Palos de Moguer,Arganzuela
+500000,planta 6,exterior,2,127,True,False,Palos de Moguer,Arganzuela
+439000,planta 1,interior,4,117,True,False,Delicias,Arganzuela
+370000,planta 4,interior,3,115,True,False,Palos de Moguer,Arganzuela
+223000,planta 2,exterior,2,65,True,False,Palos de Moguer,Arganzuela
+185000,planta 1,interior,1,41,False,False,Delicias,Arganzuela
+455000,planta 2,exterior,3,107,True,False,Palos de Moguer,Arganzuela
+229100,planta 1,exterior,1,49,True,False,Delicias,Arganzuela
+229000,planta 1,exterior,3,73,False,False,Delicias,Arganzuela
+175000,planta 2,interior,1,45,True,False,Palos de Moguer,Arganzuela
+215000,bajo,exterior,2,67,False,False,Chopera,Arganzuela
+235000,planta 3,exterior,2,52,False,False,Acacias,Arganzuela
+126000,bajo,interior,1,36,True,False,Acacias,Arganzuela
+165000,planta 1,interior,1,30,True,False,Palos de Moguer,Arganzuela
+199999,planta 1,interior,1,49,True,False,Palos de Moguer,Arganzuela
+175000,planta 1,interior,2,45,True,False,Acacias,Arganzuela
+380000,planta 2,interior,3,90,True,False,Palos de Moguer,Arganzuela
+360000,planta 2,exterior,3,80,True,False,Palos de Moguer,Arganzuela
+140000,planta 4,interior,2,40,False,False,Acacias,Arganzuela
+128000,bajo,interior,1,43,True,False,Chopera,Arganzuela
+139000,bajo,interior,2,50,False,False,Delicias,Arganzuela
+395000,planta 1,exterior,2,87,True,False,Acacias,Arganzuela
+285000,entreplanta,exterior,3,97,True,False,Chopera,Arganzuela
+330000,planta 5,interior,3,82,True,False,Acacias,Arganzuela
+530000,planta 1,exterior,5,142,True,False,Palos de Moguer,Arganzuela
+239000,planta 1,exterior,3,55,True,False,Chopera,Arganzuela
+180000,bajo,exterior,1,45,True,False,Chopera,Arganzuela
+178000,bajo,exterior,2,44,False,False,Delicias,Arganzuela
+425000,planta 1,exterior,4,89,True,False,Acacias,Arganzuela
+314900,planta 1,exterior,1,77,True,False,Legazpi,Arganzuela
+600000,planta 3,exterior,3,130,True,True,Legazpi,Arganzuela
+250000,planta 3,interior,3,67,True,False,Chopera,Arganzuela
+870000,planta 2,exterior,4,165,True,True,Imperial,Arganzuela
+390000,planta 1,exterior,3,90,True,False,Chopera,Arganzuela
+349000,bajo,exterior,1,104,True,True,Chopera,Arganzuela
+175000,planta 2,interior,1,35,True,False,Delicias,Arganzuela
+355000,planta 6,exterior,3,78,True,False,Acacias,Arganzuela
+455000,planta 2,exterior,3,110,True,False,Palos de Moguer,Arganzuela
+144800,bajo,interior,3,41,False,False,Delicias,Arganzuela
+150000,planta 3,interior,3,41,False,False,Palos de Moguer,Arganzuela
+320000,bajo,exterior,3,93,True,False,Legazpi,Arganzuela
+425000,planta 3,exterior,2,101,True,False,Imperial,Arganzuela
+170000,bajo,interior,2,40,False,False,Delicias,Arganzuela
+565000,bajo,interior,3,114,True,False,Dúplex en Legazpi,Arganzuela
+309000,planta 2,interior,2,67,True,False,Imperial,Arganzuela
+550000,planta 1,exterior,4,140,True,True,Delicias,Arganzuela
+185000,planta 3,interior,1,43,True,False,Delicias,Arganzuela
+233000,planta 3,interior,1,60,True,False,Chopera,Arganzuela
+325000,bajo,exterior,2,75,True,False,Palos de Moguer,Arganzuela
+299000,bajo,exterior,3,101,True,False,Imperial,Arganzuela
+315000,bajo,exterior,1,65,True,False,Delicias,Arganzuela
+183000,planta 2,interior,2,49,True,False,Palos de Moguer,Arganzuela
+190000,planta 2,interior,2,65,False,False,Delicias,Arganzuela
+490000,planta 5,exterior,4,150,True,False,Chopera,Arganzuela
+380000,bajo,exterior,4,123,True,True,Alameda de Osuna,barajas
+850000,bajo,exterior,3,301,True,True,Campo de las Naciones-Corralejos,barajas
+299000,planta 1,exterior,1,83,True,True,Campo de las Naciones-Corralejos,barajas
+450000,planta 4,exterior,2,100,True,True,Alameda de Osuna,barajas
+550000,planta 1,exterior,3,120,True,True,Campo de las Naciones-Corralejos,barajas
+420000,planta 3,exterior,4,122,True,False,Alameda de Osuna,barajas
+1300000,casa,exterior,4,335,False,True,Chalet pareado en Campo de las Naciones-Corralejos,barajas
+259000,planta 2,exterior,3,71,False,True,Casco Histórico de Barajas,barajas
+177000,planta 1,exterior,3,64,False,False,Casco Histórico de Barajas,barajas
+359000,planta 3,exterior,2,77,True,True,Timón,barajas
+305000,entreplanta,exterior,2,73,True,True,Timón,barajas
+420000,planta 3,exterior,4,122,True,False,Alameda de Osuna,barajas
+360000,planta 4,exterior,2,106,True,True,Alameda de Osuna,barajas
+181900,planta 2,exterior,2,70,False,False,Casco Histórico de Barajas,barajas
+595000,planta 6,exterior,3,119,True,True,Alameda de Osuna,barajas
+425000,planta 1,exterior,2,100,True,True,Alameda de Osuna,barajas
+189500,planta 2,exterior,2,67,False,False,Casco Histórico de Barajas,barajas
+173000,planta 1,interior,3,59,False,False,Casco Histórico de Barajas,barajas
+450000,planta 3,exterior,2,102,True,True,Campo de las Naciones-Corralejos,barajas
+485000,planta 3,exterior,2,104,True,True,Campo de las Naciones-Corralejos,barajas
+355000,planta 2,exterior,3,99,True,True,Alameda de Osuna,barajas
+520000,planta 3,exterior,3,180,True,False,Casco Histórico de Barajas,barajas
+255000,planta 1,exterior,3,72,False,False,Alameda de Osuna,barajas
+795000,planta 4,exterior,3,180,True,True,Campo de las Naciones-Corralejos,barajas
+515000,planta 4,exterior,3,145,True,True,Alameda de Osuna,barajas
+655000,chalet,exterior,6,290,False,True,Timón,barajas
+925000,chalet,exterior,7,333,False,True,Campo de las Naciones-Corralejos,barajas
+675000,planta 1,exterior,6,250,True,True,Alameda de Osuna,barajas
+325000,planta 3,exterior,4,114,False,True,Timón,barajas
+925000,chalet,exterior,5,340,False,True,Campo de las Naciones-Corralejos,barajas
+285000,planta 3,exterior,3,90,False,True,Casco Histórico de Barajas,barajas
+345000,planta 1,exterior,3,95,True,False,Alameda de Osuna,barajas
+392600,planta 2,exterior,3,138,True,False,Timón,barajas
+627000,planta 3,exterior,3,149,True,True,Ático en Campo de las Naciones-Corralejos,barajas
+748999,bajo,exterior,3,190,True,True,Alameda de Osuna,barajas
+545000,planta 6,exterior,4,135,True,False,Alameda de Osuna,barajas
+640000,planta 9,exterior,5,220,True,False,Alameda de Osuna,barajas
+465000,planta 3,exterior,2,142,True,True,Campo de las Naciones-Corralejos,barajas
+340000,planta 2,exterior,3,85,True,False,Alameda de Osuna,barajas
+212200,planta 2,,2,64,False,False,Casco Histórico de Barajas,barajas
+290000,planta 1,exterior,3,85,False,False,Casco Histórico de Barajas,barajas
+550000,planta 3,exterior,3,132,True,True,Campo de las Naciones-Corralejos,barajas
+335000,planta 3,exterior,3,97,True,True,Timón,barajas
+350000,bajo,exterior,2,131,True,False,Alameda de Osuna,barajas
+180000,planta 2,exterior,3,71,False,False,Timón,barajas
+392600,planta 2,exterior,3,138,True,False,Timón,barajas
+450000,planta 3,exterior,2,107,True,True,Campo de las Naciones-Corralejos,barajas
+213000,planta 2,,2,70,False,False,Timón,barajas
+392600,planta 2,exterior,3,138,True,False,Timón,barajas
+238000,planta 2,exterior,4,93,False,True,Timón,barajas
+201000,planta 2,exterior,2,63,False,True,Casco Histórico de Barajas,barajas
+185000,planta 2,exterior,1,68,True,False,Casco Histórico de Barajas,barajas
+450000,planta 4,exterior,2,120,True,True,Alameda de Osuna,barajas
+278000,entreplanta,exterior,2,118,True,True,Casco Histórico de Barajas,barajas
+129000,planta 2,,2,45,False,False,Campo de las Naciones-Corralejos,barajas
+392600,planta 2,exterior,3,111,True,True,Timón,barajas
+990000,planta 4,exterior,3,251,True,False,Campo de las Naciones-Corralejos,barajas
+299000,planta 1,exterior,1,53,True,True,Campo de las Naciones-Corralejos,barajas
+410000,planta 6,exterior,2,82,True,True,Alameda de Osuna,barajas
+123000,bajo,exterior,2,50,False,False,Aeropuerto,barajas
+349000,bajo,exterior,3,106,True,False,Alameda de Osuna,barajas
+270000,planta 2,exterior,1,68,True,True,Campo de las Naciones-Corralejos,barajas
+850000,chalet,exterior,6,360,False,True,Chalet adosado en Alameda de Osuna,barajas
+540000,planta 5,exterior,3,160,True,False,Alameda de Osuna,barajas
+98000,bajo,exterior,2,74,False,False,Aeropuerto,barajas
+160000,bajo,exterior,3,70,True,False,Aeropuerto,barajas
+345000,planta 2,exterior,4,95,False,False,Campo de las Naciones-Corralejos,barajas
+172000,planta 1,exterior,2,56,False,False,Timón,barajas
+335000,planta 2,interior,3,97,False,False,Campo de las Naciones-Corralejos,barajas
+360000,planta 2,exterior,4,98,False,False,Campo de las Naciones-Corralejos,barajas
+550000,planta 3,exterior,4,150,True,True,Alameda de Osuna,barajas
+950000,chalet,exterior,6,362,False,True,Chalet pareado en Alameda de Osuna,barajas
+369000,planta 3,exterior,2,90,True,True,Campo de las Naciones-Corralejos,barajas
+245000,planta 3,exterior,2,82,False,False,Casco Histórico de Barajas,barajas
+365000,bajo,exterior,3,89,True,False,Alameda de Osuna,barajas
+396000,planta 3,exterior,2,94,True,True,Alameda de Osuna,barajas
+890000,chalet,exterior,5,301,False,True,Chalet adosado en Alameda de Osuna,barajas
+443000,casa,exterior,5,260,False,True,Casco Histórico de Barajas,barajas
+910000,chalet,exterior,4,280,False,True,Chalet adosado en Campo de las Naciones-Corralejos,barajas
+290000,planta 2,exterior,3,90,False,True,Casco Histórico de Barajas,barajas
+139900,entreplanta,exterior,3,54,False,False,Aeropuerto,barajas
+275000,planta 3,exterior,3,106,False,False,Casco Histórico de Barajas,barajas
+560000,planta 1,exterior,3,125,True,True,Alameda de Osuna,barajas
+385000,planta 3,exterior,2,83,True,True,Campo de las Naciones-Corralejos,barajas
+118500,planta 2,exterior,3,74,False,False,Aeropuerto,barajas
+390000,planta 1,,4,118,True,True,Timón,barajas
+935000,chalet,exterior,4,247,False,True,Campo de las Naciones-Corralejos,barajas
+374000,bajo,,3,127,True,True,Timón,barajas
+155000,bajo,,2,56,False,False,Casco Histórico de Barajas,barajas
+257500,bajo,exterior,2,64,True,False,Alameda de Osuna,barajas
+272500,bajo,exterior,2,79,True,False,Alameda de Osuna,barajas
+425000,planta 3,,3,109,True,False,Campo de las Naciones-Corralejos,barajas
+749000,bajo,exterior,3,190,True,True,Alameda de Osuna,barajas
+245000,planta 2,exterior,2,65,False,False,Alameda de Osuna,barajas
+489000,planta 2,exterior,2,112,True,True,Campo de las Naciones-Corralejos,barajas
+170000,bajo,exterior,2,44,True,False,Campo de las Naciones-Corralejos,barajas
+460000,casa,exterior,7,214,False,True,Casco Histórico de Barajas,barajas
+285000,planta 3,exterior,3,90,False,True,Casco Histórico de Barajas,barajas
+108000,planta 2,exterior,3,60,True,False,Aeropuerto,barajas
+407000,bajo,exterior,4,124,True,False,Alameda de Osuna,barajas
+379000,planta 6,exterior,4,132,True,False,Alameda de Osuna,barajas
+475000,planta 3,exterior,2,138,True,True,Campo de las Naciones-Corralejos,barajas
+719000,planta 8,exterior,5,245,True,False,Alameda de Osuna,barajas
+206000,planta 2,exterior,2,64,False,False,Casco Histórico de Barajas,barajas
+245000,bajo,exterior,1,46,True,True,Campo de las Naciones-Corralejos,barajas
+115000,planta 2,,3,81,False,False,Aeropuerto,barajas
+123000,bajo,exterior,2,52,False,False,Aeropuerto,barajas
+235000,bajo,exterior,2,69,False,False,Casco Histórico de Barajas,barajas
+189900,planta 3,exterior,2,67,False,False,Casco Histórico de Barajas,barajas
+199900,planta 2,exterior,3,67,False,False,Casco Histórico de Barajas,barajas
+329000,bajo,exterior,3,120,True,False,Alameda de Osuna,barajas
+450000,planta 3,exterior,2,107,True,True,Campo de las Naciones-Corralejos,barajas
+340000,planta 2,exterior,3,85,True,True,Timón,barajas
+212200,planta 2,exterior,2,82,False,False,Casco Histórico de Barajas,barajas
+392600,planta 2,exterior,3,138,True,True,Timón,barajas
+169000,planta 2,exterior,1,64,True,False,Casco Histórico de Barajas,barajas
+125000,casa,exterior,2,50,False,False,Casco Histórico de Barajas,barajas
+280000,bajo,exterior,4,90,True,False,Timón,barajas
+349999,planta 2,exterior,3,92,True,False,Alameda de Osuna,barajas
+259000,planta 3,exterior,3,90,False,True,Timón,barajas
+424000,planta 1,exterior,3,124,True,True,Timón,barajas
+439000,planta 1,exterior,3,118,True,True,Timón,barajas
+396000,planta 1,exterior,3,116,True,False,Timón,barajas
+340000,planta 2,exterior,2,80,True,True,Timón,barajas
+460000,planta 3,exterior,3,106,True,True,Campo de las Naciones-Corralejos,barajas
+425000,bajo,exterior,4,145,True,False,Alameda de Osuna,barajas
+340000,planta 4,exterior,2,120,True,False,Alameda de Osuna,barajas
+520000,planta 3,exterior,4,135,True,True,Alameda de Osuna,barajas
+258000,planta 3,exterior,4,86,False,False,Alameda de Osuna,barajas
+359000,planta 3,exterior,4,101,True,False,Alameda de Osuna,barajas
+329000,bajo,exterior,3,120,True,False,Alameda de Osuna,barajas
+435000,planta 1,exterior,4,130,True,False,Alameda de Osuna,barajas
+235000,planta 3,exterior,3,106,False,False,Casco Histórico de Barajas,barajas
+975000,chalet,exterior,4,296,False,True,Campo de las Naciones-Corralejos,barajas
+385000,planta 5,exterior,3,113,True,True,Casco Histórico de Barajas,barajas
+273900,planta 1,exterior,2,70,True,True,Casco Histórico de Barajas,barajas
+350000,planta 4,exterior,3,105,True,False,Alameda de Osuna,barajas
+550000,planta 1,exterior,3,129,True,True,Campo de las Naciones-Corralejos,barajas
+395000,planta 6,exterior,4,131,True,False,Alameda de Osuna,barajas
+750000,planta 5,exterior,4,250,True,True,Alameda de Osuna,barajas
+375000,planta 2,exterior,2,84,True,True,Timón,barajas
+195000,bajo,exterior,3,65,False,False,Casco Histórico de Barajas,barajas
+195000,planta 1,exterior,2,69,False,False,Casco Histórico de Barajas,barajas
+345000,bajo,exterior,2,104,True,False,Alameda de Osuna,barajas
+392600,planta 2,exterior,3,138,True,True,Timón,barajas
+215000,bajo,exterior,2,65,False,False,Timón,barajas
+118500,planta 2,,3,73,False,False,Aeropuerto,barajas
+395000,planta 6,exterior,4,131,True,False,Alameda de Osuna,barajas
+395000,planta 6,exterior,4,131,True,False,Alameda de Osuna,barajas
+162000,planta 2,interior,1,46,True,False,Casco Histórico de Barajas,barajas
+392600,planta 1,exterior,3,111,True,True,Timón,barajas
+180000,planta 1,exterior,3,64,False,False,Casco Histórico de Barajas,barajas
+218000,planta 2,exterior,3,79,False,False,Casco Histórico de Barajas,barajas
+185000,planta 2,exterior,2,80,False,False,Casco Histórico de Barajas,barajas
+395000,planta 2,exterior,2,108,True,False,Campo de las Naciones-Corralejos,barajas
+172000,planta 1,exterior,2,54,False,True,Timón,barajas
+4999999,bajo,exterior,41,1.760,True,True,Timón,barajas
+380000,bajo,exterior,4,123,True,True,Alameda de Osuna,barajas
+212200,planta 2,exterior,2,82,False,False,Dúplex en Casco Histórico de Barajas,barajas
+305000,bajo,,3,112,True,False,Alameda de Osuna,barajas
+260000,planta 2,exterior,3,92,False,False,Casco Histórico de Barajas,barajas
+749000,bajo,exterior,3,147,True,True,Alameda de Osuna,barajas
+300000,planta 1,exterior,4,125,False,False,Casco Histórico de Barajas,barajas
+440000,planta 3,exterior,3,107,True,True,Casco Histórico de Barajas,barajas
+392600,planta 2,exterior,2,111,True,False,Timón,barajas
+392600,planta 2,exterior,3,138,True,True,Timón,barajas
+190000,planta 2,exterior,3,59,False,False,Casco Histórico de Barajas,barajas
+329000,entreplanta,exterior,3,120,True,False,Alameda de Osuna,barajas
+390000,planta 1,exterior,3,116,True,False,Alameda de Osuna,barajas
+749000,bajo,exterior,3,190,True,True,Alameda de Osuna,barajas
+345000,planta 2,exterior,3,100,True,False,Alameda de Osuna,barajas
+480000,planta 4,exterior,3,120,True,False,Alameda de Osuna,barajas
+300000,bajo,exterior,4,130,False,False,Casco Histórico de Barajas,barajas
+195000,planta 1,exterior,3,70,False,False,Casco Histórico de Barajas,barajas
+380000,planta 7,exterior,2,112,True,True,Alameda de Osuna,barajas
+225000,planta 2,exterior,2,70,True,True,Casco Histórico de Barajas,barajas
+510000,planta 7,exterior,3,118,True,False,Alameda de Osuna,barajas
+158000,casa,exterior,2,40,False,False,Casa o chalet independiente en Casco Histórico de Barajas,barajas
+350000,planta 1,exterior,2,180,False,False,Casco Histórico de Barajas,barajas
+256000,planta 3,exterior,4,100,False,False,Alameda de Osuna,barajas
+350000,planta 2,exterior,1,68,True,True,Campo de las Naciones-Corralejos,barajas
+285000,planta 3,exterior,5,90,False,False,Casco Histórico de Barajas,barajas
+585000,planta 3,exterior,3,115,True,True,Campo de las Naciones-Corralejos,barajas
+560000,planta 2,exterior,4,135,True,True,Alameda de Osuna,barajas
+185000,bajo,exterior,1,65,False,False,Campo de las Naciones-Corralejos,barajas
+835000,planta 3,interior,2,111,True,True,Recoletos,barrio de salamanca
+1125000,planta 1,exterior,4,162,True,True,Castellana,barrio de salamanca
+1995000,planta 1,exterior,5,274,True,True,Castellana,barrio de salamanca
+435000,planta 2,interior,1,60,True,False,Goya,barrio de salamanca
+1450000,planta 5,exterior,2,146,True,False,Goya,barrio de salamanca
+2800000,planta 3,exterior,3,226,False,False,Recoletos,barrio de salamanca
+1590000,planta 2,interior,2,146,True,False,Recoletos,barrio de salamanca
+2500000,planta 2,exterior,4,350,True,False,Castellana,barrio de salamanca
+615000,planta 2,interior,1,87,False,False,Recoletos,barrio de salamanca
+1125000,planta 1,exterior,4,162,True,False,Castellana,barrio de salamanca
+449000,bajo,exterior,2,85,True,True,Fuente del Berro,barrio de salamanca
+325000,planta 1,exterior,1,45,True,False,Goya,barrio de salamanca
+2250000,planta 4,exterior,5,290,True,False,Recoletos,barrio de salamanca
+1590000,planta 3,exterior,3,173,True,False,Goya,barrio de salamanca
+570000,planta 5,exterior,2,60,True,False,Recoletos,barrio de salamanca
+2800000,planta 3,exterior,3,226,True,False,Recoletos,barrio de salamanca
+1300000,entreplanta,exterior,5,181,True,False,Recoletos,barrio de salamanca
+690000,planta 6,interior,1,91,True,False,Recoletos,barrio de salamanca
+670000,planta 7,exterior,2,103,True,False,Lista,barrio de salamanca
+655000,bajo,exterior,2,80,True,False,Goya,barrio de salamanca
+8950000,planta 5,exterior,4,551,True,True,Lista,barrio de salamanca
+595000,planta 1,interior,3,75,True,False,Castellana,barrio de salamanca
+1295000,planta 1,exterior,3,232,True,False,Goya,barrio de salamanca
+7500000,planta 7,exterior,5,688,True,True,Ático en Castellana,barrio de salamanca
+1550000,planta 2,exterior,3,178,True,False,Castellana,barrio de salamanca
+3595000,planta 3,exterior,4,306,True,False,Recoletos,barrio de salamanca
+2200000,planta 3,exterior,2,225,False,True,Recoletos,barrio de salamanca
+1305000,planta 5,exterior,4,210,True,True,Goya,barrio de salamanca
+875000,planta 4,exterior,4,149,True,False,Goya,barrio de salamanca
+1695000,planta 4,exterior,3,151,True,True,Castellana,barrio de salamanca
+2950000,planta 5,exterior,5,300,True,True,Lista,barrio de salamanca
+3300000,planta 2,exterior,3,348,True,False,Recoletos,barrio de salamanca
+1550000,planta 1,exterior,3,146,True,True,Recoletos,barrio de salamanca
+795000,planta 2,interior,1,85,True,True,Recoletos,barrio de salamanca
+2200000,planta 1,exterior,4,203,True,True,Recoletos,barrio de salamanca
+1800000,planta 5,exterior,5,241,True,True,Recoletos,barrio de salamanca
+2700000,planta 4,exterior,4,334,True,False,Castellana,barrio de salamanca
+430000,bajo,interior,1,59,False,False,Castellana,barrio de salamanca
+1699000,entreplanta,exterior,7,460,True,True,Goya,barrio de salamanca
+1950000,planta 1,exterior,4,297,True,False,Goya,barrio de salamanca
+820000,planta 3,exterior,3,134,True,False,Lista,barrio de salamanca
+2200000,planta 6,exterior,5,327,True,True,Castellana,barrio de salamanca
+2137000,planta 2,exterior,7,303,True,False,Recoletos,barrio de salamanca
+2800000,planta 3,exterior,3,222,True,False,Recoletos,barrio de salamanca
+1670000,planta 1,exterior,3,202,True,False,Goya,barrio de salamanca
+2450000,planta 1,exterior,3,264,True,False,Castellana,barrio de salamanca
+1600000,planta 3,exterior,4,200,True,False,Goya,barrio de salamanca
+870000,planta 1,exterior,5,183,True,False,Goya,barrio de salamanca
+1995000,planta 2,exterior,3,303,True,False,Castellana,barrio de salamanca
+8950000,planta 5,exterior,5,712,True,True,Recoletos,barrio de salamanca
+1145000,chalet,exterior,3,222,False,True,Chalet adosado en Guindalera,barrio de salamanca
+695000,planta 5,exterior,4,164,True,True,Guindalera,barrio de salamanca
+1590000,planta 4,exterior,3,155,True,False,Recoletos,barrio de salamanca
+2150000,planta 1,exterior,5,329,True,False,Recoletos,barrio de salamanca
+530000,planta 6,exterior,2,92,True,True,Guindalera,barrio de salamanca
+335000,entreplanta,exterior,2,62,True,False,Guindalera,barrio de salamanca
+760000,planta 3,exterior,2,104,True,False,Goya,barrio de salamanca
+1300000,planta 9,exterior,4,210,True,True,Guindalera,barrio de salamanca
+849000,planta 6,exterior,2,86,True,False,Castellana,barrio de salamanca
+1600000,planta 6,exterior,4,227,True,True,Ático en Goya,barrio de salamanca
+1590000,planta 3,exterior,3,173,True,False,Goya,barrio de salamanca
+2690000,planta 3,exterior,5,312,True,False,Castellana,barrio de salamanca
+3800000,planta 5,exterior,5,410,True,True,Castellana,barrio de salamanca
+2975000,planta 3,exterior,6,367,True,True,Recoletos,barrio de salamanca
+2750000,planta 8,exterior,5,301,True,True,Ático en Castellana,barrio de salamanca
+420000,semi-sotano,exterior,2,119,True,False,Goya,barrio de salamanca
+2375000,planta 1,exterior,4,305,True,False,Recoletos,barrio de salamanca
+1550000,planta 1,exterior,3,211,True,False,Recoletos,barrio de salamanca
+450000,planta 6,exterior,3,84,True,False,Guindalera,barrio de salamanca
+3450000,planta 6,exterior,6,395,True,True,Castellana,barrio de salamanca
+1140000,planta 2,exterior,4,272,True,True,Goya,barrio de salamanca
+2200000,planta 2,exterior,4,210,True,True,Recoletos,barrio de salamanca
+1680000,planta 2,exterior,3,145,True,False,Recoletos,barrio de salamanca
+1975000,planta 4,exterior,4,263,True,False,Recoletos,barrio de salamanca
+460000,planta 5,interior,1,60,True,False,Castellana,barrio de salamanca
+298000,planta 4,exterior,1,57,True,False,Guindalera,barrio de salamanca
+1100000,planta 5,exterior,4,209,True,False,Castellana,barrio de salamanca
+3990000,planta 2,exterior,5,438,True,False,Lista,barrio de salamanca
+1350000,planta 5,exterior,4,292,True,False,Goya,barrio de salamanca
+998000,planta 5,exterior,4,282,True,False,Guindalera,barrio de salamanca
+3960000,planta 1,exterior,4,440,True,False,Castellana,barrio de salamanca
+2400000,planta 1,exterior,3,250,True,False,Recoletos,barrio de salamanca
+685000,bajo,interior,2,166,True,False,Goya,barrio de salamanca
+1400000,planta 1,exterior,5,168,True,False,Castellana,barrio de salamanca
+2700000,planta 2,exterior,4,319,True,False,Lista,barrio de salamanca
+1010000,planta 2,exterior,5,285,True,False,Guindalera,barrio de salamanca
+4450000,planta 2,exterior,14,528,True,False,Recoletos,barrio de salamanca
+2150000,planta 2,exterior,7,264,True,False,Recoletos,barrio de salamanca
+2300000,planta 2,exterior,7,264,True,False,Recoletos,barrio de salamanca
+300000,bajo,interior,1,51,True,False,Goya,barrio de salamanca
+4155000,planta 6,exterior,6,471,True,True,Recoletos,barrio de salamanca
+299000,planta 1,interior,2,63,True,False,Lista,barrio de salamanca
+1395000,planta 1,exterior,2,205,True,False,Castellana,barrio de salamanca
+4500000,planta 6,exterior,3,485,True,True,Recoletos,barrio de salamanca
+219000,planta 4,interior,1,40,True,False,Guindalera,barrio de salamanca
+2650000,planta 1,exterior,4,250,True,False,Recoletos,barrio de salamanca
+1700000,planta 5,exterior,3,167,True,False,Goya,barrio de salamanca
+3400000,planta 3,exterior,4,280,True,False,Recoletos,barrio de salamanca
+2400000,planta 1,exterior,3,250,True,False,Recoletos,barrio de salamanca
+829000,planta 4,exterior,4,112,True,False,Goya,barrio de salamanca
+898000,planta 3,exterior,3,130,True,False,Goya,barrio de salamanca
+1150000,bajo,exterior,5,224,True,False,Recoletos,barrio de salamanca
+2400000,planta 1,exterior,4,247,True,False,Recoletos,barrio de salamanca
+1250000,planta 2,exterior,3,162,True,False,Goya,barrio de salamanca
+740000,planta 2,exterior,2,113,True,False,Goya,barrio de salamanca
+1100000,planta 7,exterior,5,172,True,False,Castellana,barrio de salamanca
+1530000,planta 2,exterior,4,315,True,False,Goya,barrio de salamanca
+2500000,planta 2,exterior,5,281,True,True,Castellana,barrio de salamanca
+945000,planta 3,exterior,3,114,True,False,Goya,barrio de salamanca
+799000,planta 5,exterior,4,155,True,False,Goya,barrio de salamanca
+1650000,planta 1,exterior,4,267,True,False,Castellana,barrio de salamanca
+1495000,planta 1,exterior,3,230,True,False,Recoletos,barrio de salamanca
+1125000,planta 1,exterior,4,142,True,True,Castellana,barrio de salamanca
+3900000,planta 1,exterior,4,413,True,True,Recoletos,barrio de salamanca
+600000,bajo,exterior,4,194,True,False,Castellana,barrio de salamanca
+1350000,planta 3,exterior,3,142,True,False,Castellana,barrio de salamanca
+1195000,planta 6,exterior,2,116,True,False,Castellana,barrio de salamanca
+1490000,planta 5,exterior,2,122,True,True,Recoletos,barrio de salamanca
+2550000,planta 2,exterior,4,242,True,True,Recoletos,barrio de salamanca
+950000,bajo,exterior,2,140,True,False,Castellana,barrio de salamanca
+475000,planta 1,interior,3,84,True,False,Lista,barrio de salamanca
+790000,planta 1,exterior,4,220,True,False,Goya,barrio de salamanca
+495000,planta 3,interior,2,71,True,False,Guindalera,barrio de salamanca
+815000,planta 5,exterior,3,95,True,False,Lista,barrio de salamanca
+1590000,planta 1,interior,2,146,True,False,Recoletos,barrio de salamanca
+930000,planta 1,exterior,3,152,True,False,Goya,barrio de salamanca
+2750000,planta 5,exterior,4,283,False,False,Castellana,barrio de salamanca
+2600000,planta 1,exterior,5,276,True,False,Castellana,barrio de salamanca
+825000,planta 7,exterior,2,100,True,False,Lista,barrio de salamanca
+1995000,planta 2,exterior,5,277,True,True,Castellana,barrio de salamanca
+790000,planta 3,exterior,2,112,True,False,Goya,barrio de salamanca
+889000,planta 1,exterior,3,111,True,False,Goya,barrio de salamanca
+7500000,planta 7,exterior,5,745,True,True,Ático en Castellana,barrio de salamanca
+925000,planta 3,exterior,2,105,True,False,Lista,barrio de salamanca
+625000,semi-sotano,exterior,2,149,True,False,Castellana,barrio de salamanca
+655000,entreplanta,exterior,2,80,True,False,Goya,barrio de salamanca
+899000,planta 2,exterior,2,74,True,True,Recoletos,barrio de salamanca
+1590000,planta 2,exterior,2,143,True,False,Recoletos,barrio de salamanca
+3850000,planta 3,exterior,6,305,True,False,Recoletos,barrio de salamanca
+2850000,planta 2,exterior,3,220,True,False,Recoletos,barrio de salamanca
+2200000,planta 1,exterior,6,400,True,True,Castellana,barrio de salamanca
+525000,semi-sotano,exterior,2,77,True,False,Castellana,barrio de salamanca
+1150000,planta 1,exterior,4,240,True,False,Goya,barrio de salamanca
+199000,planta 3,interior,2,31,False,False,Goya,barrio de salamanca
+799000,planta 5,exterior,4,155,True,False,Goya,barrio de salamanca
+820000,planta 4,exterior,4,114,True,False,Lista,barrio de salamanca
+2200000,planta 6,exterior,5,327,True,True,Castellana,barrio de salamanca
+1350000,planta 1,exterior,4,181,True,True,Goya,barrio de salamanca
+788000,planta 5,exterior,3,104,True,False,Goya,barrio de salamanca
+229800,bajo,interior,2,38,True,False,Goya,barrio de salamanca
+1549000,planta 1,exterior,6,187,True,True,Goya,barrio de salamanca
+469000,planta 2,interior,3,81,True,False,Guindalera,barrio de salamanca
+2070000,planta 5,exterior,5,353,True,True,Lista,barrio de salamanca
+1625000,planta 6,exterior,2,212,True,False,Dúplex en Goya,barrio de salamanca
+1590000,planta 3,exterior,3,173,True,False,Goya,barrio de salamanca
+889000,planta 1,exterior,3,95,True,False,Goya,barrio de salamanca
+995000,planta 4,exterior,2,75,True,True,Recoletos,barrio de salamanca
+1825000,planta 7,exterior,3,206,True,False,Lista,barrio de salamanca
+825000,bajo,interior,2,120,True,False,Recoletos,barrio de salamanca
+2400000,planta 1,exterior,3,247,True,False,Recoletos,barrio de salamanca
+3595000,planta 3,exterior,4,307,True,False,Recoletos,barrio de salamanca
+2200000,planta 3,exterior,3,247,True,True,Recoletos,barrio de salamanca
+440000,planta 3,exterior,2,74,True,False,Fuente del Berro,barrio de salamanca
+940000,planta 2,exterior,2,124,True,False,Goya,barrio de salamanca
+4500000,planta 3,exterior,5,415,True,True,Castellana,barrio de salamanca
+2750000,planta 6,exterior,4,247,True,False,Castellana,barrio de salamanca
+2150000,planta 3,exterior,3,153,True,True,Castellana,barrio de salamanca
+455000,planta 6,exterior,2,90,True,True,Guindalera,barrio de salamanca
+499000,planta 3,exterior,2,69,True,False,Goya,barrio de salamanca
+570000,planta 3,exterior,3,107,True,False,Guindalera,barrio de salamanca
+435000,planta 1,exterior,3,88,True,False,Guindalera,barrio de salamanca
+280000,planta 2,interior,1,69,True,False,Guindalera,barrio de salamanca
+560000,planta 1,exterior,4,133,True,False,Fuente del Berro,barrio de salamanca
+1280000,planta 2,exterior,5,174,True,False,Goya,barrio de salamanca
+1590000,planta 3,exterior,3,173,True,False,Goya,barrio de salamanca
+4950000,planta 4,exterior,5,475,True,True,Castellana,barrio de salamanca
+730000,planta 1,exterior,4,186,True,True,Goya,barrio de salamanca
+559900,planta 3,exterior,4,85,True,False,Goya,barrio de salamanca
+970000,planta 2,exterior,4,224,True,False,Lista,barrio de salamanca
+1750000,planta 6,exterior,2,179,True,True,Ático en Castellana,barrio de salamanca
+2690000,planta 3,exterior,5,312,True,False,Castellana,barrio de salamanca
+2500000,planta 2,exterior,4,200,True,False,Recoletos,barrio de salamanca
+820000,planta 4,exterior,4,114,True,False,Lista,barrio de salamanca
+2690000,planta 3,exterior,5,312,True,True,Castellana,barrio de salamanca
+979000,planta 4,exterior,3,133,True,False,Castellana,barrio de salamanca
+610000,planta 1,interior,2,80,True,False,Lista,barrio de salamanca
+620000,planta 1,exterior,3,128,True,False,Guindalera,barrio de salamanca
+995000,planta 4,exterior,2,75,True,True,Recoletos,barrio de salamanca
+3200000,planta 5,exterior,4,323,True,False,Recoletos,barrio de salamanca
+7500000,planta 7,exterior,6,750,True,True,Ático en Castellana,barrio de salamanca
+1150000,planta 8,exterior,2,151,True,True,Ático en Guindalera,barrio de salamanca
