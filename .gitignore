@@ -43,11 +43,9 @@ venv/
 *.ipynb
 
 # Data & Models (large files - IMPORTANT!)
-*.pkl
 *.joblib
 *.h5
 *.hdf5
-*.csv
 *.parquet
 data/
 datasets/
