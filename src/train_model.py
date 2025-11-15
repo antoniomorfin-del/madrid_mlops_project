@@ -22,7 +22,18 @@ from data_cleaning import load_and_clean_data
 
 # Point MLflow to local SQLite DB (no deprecation warnings)
 mlf.set_tracking_uri("sqlite:///mlflow.db")
-mlf.set_experiment("Madrid_House_Prices")
+
+# CI-safe experiment init: allow CI to use a different name, and ensure local artifact path
+EXP_NAME = os.getenv("MLFLOW_EXPERIMENT_NAME", "Madrid_House_Prices")
+exp = mlf.get_experiment_by_name(EXP_NAME)
+if exp is None:
+    exp_id = mlf.create_experiment(
+        EXP_NAME,
+        artifact_location="file:./mlruns"  # relative; valid on Linux & Windows
+    )
+    mlf.set_experiment(experiment_id=exp_id)
+else:
+    mlf.set_experiment(EXP_NAME)
 
 
 def train_model(csv_path: str):
