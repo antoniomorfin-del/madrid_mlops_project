@@ -3,6 +3,7 @@ import os
 import joblib
 import numpy as np
 import pandas as pd
+import sys
 
 # Use an alias to avoid any shadowing issues
 import mlflow as mlf
@@ -137,8 +138,11 @@ def train_model(csv_path: str):
 
 
 if __name__ == "__main__":
-    CSV_PATH = os.path.join("data", "house_price_madrid_14_08_2022.csv")
-    metrics = train_model(CSV_PATH)
+    # If a path is provided, use it; else prefer the sample if present
+    sample = os.path.join("data", "madrid_sample.csv")
+    full   = os.path.join("data", "house_price_madrid_14_08_2022.csv")
+    csv_path = sys.argv[1] if len(sys.argv) > 1 else (sample if os.path.exists(sample) else full)
+    metrics = train_model(csv_path)
     print(metrics)
 
 
