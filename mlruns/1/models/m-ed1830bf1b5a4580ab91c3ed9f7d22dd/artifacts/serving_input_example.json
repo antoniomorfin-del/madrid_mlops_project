@@ -1,0 +1,26 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "house_type",
+      "house_type_2",
+      "rooms",
+      "m2",
+      "elevator",
+      "garage",
+      "neighborhood",
+      "district"
+    ],
+    "data": [
+      [
+        "planta_1",
+        "exterior",
+        3,
+        60.0,
+        0,
+        0,
+        "puerta_bonita",
+        "carabanchel"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+artifact_path: file:///C:/Users/anton/OneDrive/Escritorio/IE/MBADS/MLOPS/madrid_mlops_project/mlruns/1/models/m-ed1830bf1b5a4580ab91c3ed9f7d22dd/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-ed1830bf1b5a4580ab91c3ed9f7d22dd
+model_size_bytes: 63846489
+model_uuid: m-ed1830bf1b5a4580ab91c3ed9f7d22dd
+prompts: null
+run_id: c7a4573445ac4aea9bdb6f6bbf4ac482
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "house_type", "required": true}, {"type": "string",
+    "name": "house_type_2", "required": true}, {"type": "long", "name": "rooms", "required":
+    true}, {"type": "double", "name": "m2", "required": true}, {"type": "long", "name":
+    "elevator", "required": true}, {"type": "long", "name": "garage", "required":
+    true}, {"type": "string", "name": "neighborhood", "required": true}, {"type":
+    "string", "name": "district", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-15 16:48:59.643486'

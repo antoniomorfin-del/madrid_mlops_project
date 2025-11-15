@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/anton/OneDrive/Escritorio/IE/MBADS/MLOPS/madrid_mlops_project/mlruns/1/models/m-df9ad3682d6042a590a17abfb5430a28/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-df9ad3682d6042a590a17abfb5430a28
+model_size_bytes: 63845907
+model_uuid: m-df9ad3682d6042a590a17abfb5430a28
+prompts: null
+run_id: 041d0a640623463fbf85349a7b2463f7
+utc_time_created: '2025-11-15 16:20:39.256849'
