@@ -21,24 +21,21 @@ Deployment – The Docker image is automatically built and deployed to Render wi
 ---
 
 ## 📂 Repository Structure
-madrid_mlops_project/
-├── app/
-│   └── app.py                  # FastAPI app for serving predictions
-├── data/
-│   └── madrid_sample.csv       # Sample dataset for CI
-├── models/
-│   └── model.pkl               # Trained model
-├── src/
-│   ├── data_cleaning.py        # Data preprocessing
-│   └── train_model.py          # Model training + MLflow logging
-├── .github/workflows/
-│   ├── train.yml               # Train workflow
-│   └── docker.yml              # Docker build workflow
-├── Dockerfile                  # Container build instructions
-├── render.yaml                 # Render deployment manifest
-├── requirements-train-ci.txt   # Training dependencies for CI
-├── requirements-api.txt        # Runtime dependencies for FastAPI
-└── README.md                   # Project documentation
+| Path                              | Description                              |
+|-----------------------------------|------------------------------------------|
+| `madrid_mlops_project/`           | Root project directory                   |
+| ├── `app/app.py`                  | FastAPI app for serving predictions      |
+| ├── `data/madrid_sample.csv`      | Sample dataset for CI                    |
+| ├── `models/model.pkl`            | Trained model                            |
+| ├── `src/data_cleaning.py`        | Data preprocessing                       |
+| ├── `src/train_model.py`          | Model training + MLflow logging          |
+| ├── `.github/workflows/train.yml` | Train workflow                           |
+| ├── `.github/workflows/docker.yml`| Docker build workflow                    |
+| ├── `Dockerfile`                  | Container build instructions             |
+| ├── `render.yaml`                 | Render deployment manifest               |
+| ├── `requirements-train-ci.txt`   | Training dependencies for CI             |
+| ├── `requirements-api.txt`        | Runtime dependencies for FastAPI         |
+| └── `README.md`                   | Project documentation                    |
 
 ⚙️ Local Setup
 1️⃣ Create and activate a virtual environment
